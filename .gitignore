@@ -5,19 +5,5 @@ env/
 .env
 .env.*
 
-__pycache__/
-*.py[cod]
 
-.vscode/
-.idea/
 
-.ipynb_checkpoints/
-
-chroma_db/
-chroma/
-*.db
-
-*.log
-
-.DS_Store
-Thumbs.db
